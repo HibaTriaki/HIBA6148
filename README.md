@@ -1,72 +1,89 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=220&section=header&text=⚔%20HiBA6148%20⚔&fontSize=42&fontColor=e8c4a0&animation=fadeIn&desc=Demon%20Slayer%20Corps%20|%20Space%20%26%20Nature&descSize=16&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=220&section=header&text=HiBA6148&fontSize=48&fontColor=e8c4a0&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Developer%20|%20USTHB&descSize=16&descAlignY=75)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=E8C4A0&center=true&vCenter=true&width=500&lines=⚔+Bienvenue+sur+mon+GitHub+⚔;🌌+Entre+les+étoiles+et+la+forêt;🗡+Chasseur+de+Démons+du+Numérique" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3000&pause=1000&color=E8C4A0&center=true&vCenter=true&width=550&lines=💻+Computer+Science+Student+@+USTHB;🌐+Full-Stack+%26+Mobile+Developer;🔐+Interested+in+Cybersecurity;🎨+UI%2FUX+Designer+with+Figma;🌿+Always+learning+%26+growing" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-
-## ⚔ Tanjiro & Nezuko — En Action 🌸
-
-<img src="https://media.tenor.com/JRe884JCAvIAAAA1/demon-slayer-kimetsu-no-yaiba.webp" width="320" alt="Tanjiro Demon Slayer"/>
-
-*⚔ Tanjiro — Respiration de l'Eau*
-
-<br/>
-
-<img src="https://media.tenor.com/GP9LKDltBJwAAAA1/nezuko-demon-slayer.webp" width="320" alt="Nezuko Demon Slayer"/>
-
-*🌸 Nezuko — Gardienne de la Nuit*
-
-<br/>
-
-<img src="https://media1.tenor.com/m/dlf7JsAsZ44AAAAd/fight.gif" width="450" alt="Demon Slayer Fight"/>
-
-*🔥 Hinokami Kagura — Danse du Dieu du Feu !*
-
+<img src="https://media1.tenor.com/m/dlf7JsAsZ44AAAAd/fight.gif" width="480" alt="anime space nature"/>
 </div>
 
 ---
 
-## 🌙 À propos de moi
+## 🌙 About Me
 
-> *Comme Tanjiro sous les étoiles de la montagne — je cherche la lumière dans chaque ligne de code.*
+> *Motivated by curiosity, driven by code — building solutions one project at a time.*
 
-Salut ! Je suis **HiBA6148** 👋  
-Un développeur passionné, guidé par la **détermination de Tanjiro** 🗡 et la **force de Nezuko** 🌸  
-J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et les **étoiles** 🌌 pour guide.
+Hi, I'm **Triaki Hiba** 👋 — a passionate **Computer Science student** at **USTHB** (Houari Boumediene University of Science and Technology), Algeria.
 
-- 🗡 Actuellement en train de travailler sur ...
-- 📚 En train d'apprendre ...
-- 🌌 À la recherche de collaborations sur ...
-- 🌿 Fun fact : ...
+- 🎓 A Computer Science student — USTHB
+- 🔬 Member of the sciences clubs **Micro Club - CELEC**
 
 ---
 
-## 🗡 Techniques de Combat (Technologies)
+## 🛠 Technical Skills
 
+### 💻 Programming Languages
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-c62828?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c62828?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d3060?style=for-the-badge&logo=python&logoColor=7ab0f0)
+![C](https://img.shields.io/badge/C-0a3d20?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8b1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0d3060?style=for-the-badge&logo=dart&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a3d20?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![React](https://img.shields.io/badge/React-1a2a4a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d3060?style=for-the-badge&logo=node.js&logoColor=7ad4a0)
+
+</div>
+
+### 🌐 Web Development
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-8b1a1a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0d3060?style=for-the-badge&logo=css3&logoColor=white)
+![Frontend](https://img.shields.io/badge/Front--end-0a3d20?style=for-the-badge&logo=react&logoColor=white)
+![Backend](https://img.shields.io/badge/Back--end-4a0a0a?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+### 📱 Desktop & Mobile
+<div align="center">
+
+![JavaSwing](https://img.shields.io/badge/Java%20Swing-c62828?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-8b1a1a?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0d3060?style=for-the-badge&logo=flutter&logoColor=61DAFB)
+
+</div>
+
+### 🗄 Databases & Tools
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-0a3d20?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-c62828?style=for-the-badge&logo=oracle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-4a0a0a?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Kali-0d3060?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0a3d20?style=for-the-badge&logo=git&logoColor=f05033)
 
 </div>
 
+### 🔐 Other Interests
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Ethical%20Hacking-8b1a1a?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0a3d20?style=for-the-badge&logo=java&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-0d3060?style=for-the-badge&logo=figma&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-4a0a0a?style=for-the-badge&logo=adobe&logoColor=white)
+
+</div>
+
 ---
 
-## 📊 Statistiques du Pilier
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -80,21 +97,13 @@ J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et
 
 ---
 
-## 🌿 Haïku du Hashira
-
-> *Forêt sous les astres —*  
-> *la lame cherche la lumière*  
-> *l'aube repeint le sang.*
-
----
-
-## 🌌 Me retrouver
+## 📬 Contact Me
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/METTRE_TON_LIEN)
+[![Email](https://img.shields.io/badge/triakihiba123@gmail.com-c62828?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triakihiba123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/METTRE_TON_PROFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/METTRE_TON_COMPTE)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0015?style=for-the-badge&logo=github&logoColor=e8c4a0)](https://github.com/HiBA6148)
 
 </div>
 
@@ -102,14 +111,7 @@ J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et
 
 <div align="center">
 
-*"Les larmes et la sueur s'évaporent — mais jamais la détermination."*  
-**— Tanjiro Kamado** 🗡
-
-<br/>
-
-<img src="https://media.tenor.com/JRe884JCAvIAAAA1/demon-slayer-kimetsu-no-yaiba.webp" width="100"/>
-&nbsp;&nbsp;
-<img src="https://media.tenor.com/GP9LKDltBJwAAAA1/nezuko-demon-slayer.webp" width="100"/>
+*"Code with passion, build with purpose."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=120&section=footer)
 
