@@ -1,17 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=220&section=header&text=HiBA6148&fontSize=48&fontColor=e8c4a0&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Developer%20|%20USTHB&descSize=16&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=220&section=header&text=Hiba%20Triaki&fontSize=48&fontColor=e8c4a0&animation=fadeIn&desc=Computer%20Science%20Student%20·%20Developer%20·%20USTHB&descSize=16&descAlignY=75)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3000&pause=1000&color=E8C4A0&center=true&vCenter=true&width=550&lines=💻+Computer+Science+Student+@+USTHB;🌐+Full-Stack+%26+Mobile+Developer;🔐+Interested+in+Cybersecurity;🎨+UI%2FUX+Designer+with+Figma;🌿+Always+learning+%26+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3000&pause=1000&color=E8C4A0&center=true&vCenter=true&width=580&lines=💻+Computer+Science+Student+@+USTHB;🌐+Full-Stack+%26+Mobile+Developer;🔐+Interested+in+Cybersecurity;🎨+UI%2FUX+Designer+with+Figma;🏠+Working+from+home+·+Always+learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://media1.tenor.com/m/dlf7JsAsZ44AAAAd/fight.gif" width="480" alt="anime space nature"/>
+<img src="https://media1.tenor.com/m/dlf7JsAsZ44AAAAd/fight.gif" width="480" alt="coding spirit"/>
 </div>
 
 ---
@@ -20,10 +20,11 @@
 
 > *Motivated by curiosity, driven by code — building solutions one project at a time.*
 
-Hi, I'm **Triaki Hiba** 👋 — a passionate **Computer Science student** at **USTHB** (Houari Boumediene University of Science and Technology), Algeria.
+Hi, I'm **Hiba Triaki** 👋 — a passionate **Computer Science student** at **USTHB** (Houari Boumediene University of Science and Technology), Algeria.
 
-- 🎓 A Computer Science student — USTHB
-- 🔬 Member of the sciences clubs **Micro Club - CELEC**
+- 🎓 CS student — USTHB
+- 🏠 Working from home
+- 🔬 Member of the science club **Micro Club - CELEC**
 
 ---
 
