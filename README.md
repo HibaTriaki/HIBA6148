@@ -1,6 +1,3 @@
-bash
-
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=220&section=header&text=⚔%20HiBA6148%20⚔&fontSize=42&fontColor=e8c4a0&animation=fadeIn&desc=Demon%20Slayer%20Corps%20|%20Space%20%26%20Nature&descSize=16&descAlignY=75)
@@ -15,12 +12,23 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 <div align="center">
 
-## 🗡 Tanjiro & Nezuko Kamado 🌸
+## ⚔ Tanjiro & Nezuko — En Action 🌸
 
-| ⚔ Tanjiro — La Détermination | 🌸 Nezuko — La Puissance |
-|:---:|:---:|
-| <img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/72/Tanjiro_Kamado_anime_design.png" width="200"/> | <img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/77/Nezuko_Kamado_anime_design.png" width="200"/> |
-| *"Je ne lâcherai jamais !"* | *"Nezuko-chan !"* |
+<img src="https://media.tenor.com/JRe884JCAvIAAAA1/demon-slayer-kimetsu-no-yaiba.webp" width="320" alt="Tanjiro Demon Slayer"/>
+
+*⚔ Tanjiro — Respiration de l'Eau*
+
+<br/>
+
+<img src="https://media.tenor.com/GP9LKDltBJwAAAA1/nezuko-demon-slayer.webp" width="320" alt="Nezuko Demon Slayer"/>
+
+*🌸 Nezuko — Gardienne de la Nuit*
+
+<br/>
+
+<img src="https://media1.tenor.com/m/dlf7JsAsZ44AAAAd/fight.gif" width="450" alt="Demon Slayer Fight"/>
+
+*🔥 Hinokami Kagura — Danse du Dieu du Feu !*
 
 </div>
 
@@ -30,7 +38,7 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 > *Comme Tanjiro sous les étoiles de la montagne — je cherche la lumière dans chaque ligne de code.*
 
-Salut ! Je suis **\Triaki Hiba** 👋  
+Salut ! Je suis **HiBA6148** 👋  
 Un développeur passionné, guidé par la **détermination de Tanjiro** 🗡 et la **force de Nezuko** 🌸  
 J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et les **étoiles** 🌌 pour guide.
 
@@ -58,39 +66,15 @@ J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et
 
 ---
 
-<div align="center">
-
-## 🌸 Nezuko — Gardienne de la Nuit 🌸
-
-<img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/77/Nezuko_Kamado_anime_design.png" width="300" alt="Nezuko Kamado"/>
-
-> *"Même dans les ténèbres les plus profondes, la fleur de wisteria fleurit."* 🌸
-
-</div>
-
----
-
 ## 📊 Statistiques du Pilier
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiBA6148&show_icons=true&theme=dark&bg_color=0a0015&title_color=e8c4a0&text_color=d4b896&icon_color=c62828&border_color=8b1a1a&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiBA6148&show_icons=true&theme=dark&bg_color=0a0015&title_color=e8c4a0&text_color=d4b896&icon_color=c62828&border_color=8b1a1a)
 
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBA6148&layout=compact&theme=dark&bg_color=0a0015&title_color=e8c4a0&text_color=d4b896&border_color=8b1a1a)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔ Tanjiro — Respiration de l'Eau ⚔
-
-<img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/72/Tanjiro_Kamado_anime_design.png" width="300" alt="Tanjiro Kamado"/>
-
-> *"Hinokami Kagura — Danse du Dieu du Feu !"* 🔥
 
 </div>
 
@@ -123,15 +107,10 @@ J'explore le code comme un Pilier explore la nuit — avec la **nature** 🌿 et
 
 <br/>
 
-<img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/72/Tanjiro_Kamado_anime_design.png" width="80" alt="Tanjiro small"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/77/Nezuko_Kamado_anime_design.png" width="80" alt="Nezuko small"/>
+<img src="https://media.tenor.com/JRe884JCAvIAAAA1/demon-slayer-kimetsu-no-yaiba.webp" width="100"/>
+&nbsp;&nbsp;
+<img src="https://media.tenor.com/GP9LKDltBJwAAAA1/nezuko-demon-slayer.webp" width="100"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8b1a1a,0a0520,1a3d2d&height=120&section=footer)
 
 </div>
-ENDOFFILE
-echo "Done"
-Sortie
-
-Done
